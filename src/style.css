@@ -81,6 +81,10 @@ body {
     border-radius: 0% 0% 50% 0%;
 }
 
+.circ:hover {
+    filter: blur(10px);
+}
+
 .circ {
     height: 250px;
     width: 250px;
